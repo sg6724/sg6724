@@ -1,4 +1,4 @@
-<h1 align="center">System.out.println("Hello, World! I’m Samriddhi gupta!")</h1>
+<h1 align="center">👩‍💻System.out.println("Hello, World! I’m Samriddhi gupta!")</h1>
 
 <p align="center">🚀 AI Enthusiast | 💻 Web Developer | 🧠 Lifelong Learner</p>
 
@@ -14,13 +14,13 @@ I'm a tech explorer with a passion for building smart systems and solving real-w
 
 - 🔬 **Focus Areas**: Artificial Intelligence, Machine Learning, Full-Stack Web Dev
 - 📌 **Current Stack**:
-  - 🤖 ML/AI: `Scikit-learn`, `Pandas`, `NumPy`, `Keras`, `Matplotlib`, `Seaborn`
+  - 🤖 ML/AI:  `Tensorflow` , `Scikit-learn`, `Pandas`, `NumPy`, `Keras`, `Matplotlib`, `Seaborn`
   - 🧪 Backend: `Python`, `FastAPI`, `Flask`, `Django`, `SQLAlchemy`
   - 🌐 Frontend: `React.js`, `Tailwind CSS`, `JavaScript`, `HTML`, `CSS`
-  - 🛢️ Databases: `MySQL`, `PostgreSQL`, `MongoDB`
+  - 🛢️ Databases: `MySQL`, `PostgreSQL`
   - ☕ Programming: `Python`, `Java`, `JavaScript`
 - 🤝 Open to Collaborate: Hackathons, open-source projects, AI-powered ideas
-- 🛠 Currently Learning: `LangChain`, `LLMs`, `Prompt Engineering`, `Docker`, `Redis`
+- 🛠 Currently Learning: `LangChain`, `LLMs`, `Generative AI`, `Deep lLearning`
 - 🎯 My Mission: Build AI solutions that empower people, simplify decisions, and make tech more human.
 
 ---
@@ -38,7 +38,7 @@ Here are the technologies and tools I work with regularly:
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://www.google.com/imgres?q=postman&imgurl=https%3A%2F%2Fmms.businesswire.com%2Fmedia%2F20230322005274%2Fen%2F761650%2F22%2Fpostman-logo-vert-2018.jpg"/>
 </p>
 
 ---
@@ -47,10 +47,10 @@ Here are the technologies and tools I work with regularly:
 
 | Project Name           | Description                                                                 | Tech Stack                                               |
 |------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------|
-| **CureHer**            | AI-powered breast cancer assessment tool with diagnosis + recommendations   | FastAPI, React.js, Scikit-learn, Joblib, MySQL           |
+| **CureHer**            | AI-powered breast cancer assessment tool with diagnosis + recommendations   | FastAPI, React.js, Scikit-learn, MySQL, ML algorithms    |
 | **MediCheck Extension**| Chrome extension validating medical content using trusted APIs              | LangChain, React.js, Flask, Tailwind CSS                 |
 | **Spam Classifier**    | Email classifier using NLP and ML models for spam detection                 | Python, Scikit-learn, TF-IDF, Pickle                     |
-| **YourHR**             | AI-Powered job recruiter                                                    | FastAPI, ML, Python, SQLite,                             |
+| **YourHR**             | AI-Powered job recruiter                                                    | FastAPI, ML, Python, SQLite, mailgun api , Duckduckgo    |
 
 ---
 
@@ -66,10 +66,10 @@ Here are the technologies and tools I work with regularly:
 ### 🧩 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/samriddhi-gupta-61a96b282/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="samriddhigupta426@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://your-portfolio.com" target="_blank">
