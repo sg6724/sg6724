@@ -38,7 +38,6 @@ Here are the technologies and tools I work with regularly:
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://www.google.com/imgres?q=postman&imgurl=https%3A%2F%2Fmms.businesswire.com%2Fmedia%2F20230322005274%2Fen%2F761650%2F22%2Fpostman-logo-vert-2018.jpg"/>
 </p>
 
 ---
