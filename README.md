@@ -72,8 +72,8 @@ Here are the technologies and tools I work with regularly:
   <a href="samriddhigupta426@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://samriddhigupta426.wixsite.com/myfolio" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-24292E?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 
