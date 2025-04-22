@@ -17,7 +17,7 @@ I'm a tech explorer with a passion for building smart systems and solving real-w
   - 🤖 ML/AI: `TensorFlow`, `Scikit-learn`, `Pandas`, `NumPy`, `Keras`, `Matplotlib`, `Seaborn`  
   - 🧪 Backend: `Python`, `FastAPI`, `Flask`, `Django`, `SQLAlchemy`  
   - 🌐 Frontend: `React.js`, `Tailwind CSS`, `JavaScript`, `HTML`, `CSS`  
-  - 🛢️ Databases: `MySQL`, `PostgreSQL`  
+  - 🛢️ Databases: `MySQL`, `SQLite`  
   - ☕ Programming: `Python`, `Java`, `JavaScript`  
 - 🤝 Open to Collaborate: Hackathons, open-source projects, AI-powered ideas  
 - 🛠 Currently Learning: `LangChain`, `LLMs`, `Generative AI`, `Deep Learning`  
