@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻System.out.println("Hello, World! I’m Samriddhi gupta!")</h1>
+<h1 align="center">👩‍💻System.out.println("Hello, World! I’m Samriddhi Gupta!")</h1>
 
 <p align="center">🚀 AI Enthusiast | 💻 Web Developer | 🧠 Lifelong Learner</p>
 
@@ -12,15 +12,15 @@ I'm a tech explorer with a passion for building smart systems and solving real-w
 
 ### 🧠 About Me
 
-- 🔬 **Focus Areas**: Artificial Intelligence, Machine Learning, Full-Stack Web Dev
+- 🔬 **Focus Areas**: Artificial Intelligence, Machine Learning, Full-Stack Web Dev  
 - 📌 **Current Stack**:
-  - 🤖 ML/AI:  `Tensorflow` , `Scikit-learn`, `Pandas`, `NumPy`, `Keras`, `Matplotlib`, `Seaborn`
-  - 🧪 Backend: `Python`, `FastAPI`, `Flask`, `Django`, `SQLAlchemy`
-  - 🌐 Frontend: `React.js`, `Tailwind CSS`, `JavaScript`, `HTML`, `CSS`
-  - 🛢️ Databases: `MySQL`, `PostgreSQL`
-  - ☕ Programming: `Python`, `Java`, `JavaScript`
-- 🤝 Open to Collaborate: Hackathons, open-source projects, AI-powered ideas
-- 🛠 Currently Learning: `LangChain`, `LLMs`, `Generative AI`, `Deep lLearning`
+  - 🤖 ML/AI: `TensorFlow`, `Scikit-learn`, `Pandas`, `NumPy`, `Keras`, `Matplotlib`, `Seaborn`  
+  - 🧪 Backend: `Python`, `FastAPI`, `Flask`, `Django`, `SQLAlchemy`  
+  - 🌐 Frontend: `React.js`, `Tailwind CSS`, `JavaScript`, `HTML`, `CSS`  
+  - 🛢️ Databases: `MySQL`, `PostgreSQL`  
+  - ☕ Programming: `Python`, `Java`, `JavaScript`  
+- 🤝 Open to Collaborate: Hackathons, open-source projects, AI-powered ideas  
+- 🛠 Currently Learning: `LangChain`, `LLMs`, `Generative AI`, `Deep Learning`  
 - 🎯 My Mission: Build AI solutions that empower people, simplify decisions, and make tech more human.
 
 ---
@@ -49,7 +49,7 @@ Here are the technologies and tools I work with regularly:
 | **CureHer**            | AI-powered breast cancer assessment tool with diagnosis + recommendations   | FastAPI, React.js, Scikit-learn, MySQL, ML algorithms    |
 | **MediCheck Extension**| Chrome extension validating medical content using trusted APIs              | LangChain, React.js, Flask, Tailwind CSS                 |
 | **Spam Classifier**    | Email classifier using NLP and ML models for spam detection                 | Python, Scikit-learn, TF-IDF, Pickle                     |
-| **YourHR**             | AI-Powered job recruiter                                                    | FastAPI, ML, Python, SQLite, mailgun api , Duckduckgo    |
+| **YourHR**             | AI-Powered job recruiter                                                    | FastAPI, ML, Python, SQLite, Mailgun API, DuckDuckGo     |
 
 ---
 
@@ -68,7 +68,7 @@ Here are the technologies and tools I work with regularly:
   <a href="https://www.linkedin.com/in/samriddhi-gupta-61a96b282/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="samriddhigupta426@gmail.com">
+  <a href="mailto:samriddhigupta426@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://samriddhigupta426.wixsite.com/myfolio" target="_blank">
@@ -78,6 +78,4 @@ Here are the technologies and tools I work with regularly:
 
 ---
 
-> ⚡️ *Always Exploring. Always learning. Always building.*
-
-
+> ⚡️ *Always Exploring. Always Learning. Always Building.*
