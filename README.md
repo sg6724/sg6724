@@ -1,81 +1,32 @@
-<h1 align="center">👩‍💻System.out.println("Hello, World! I’m Samriddhi Gupta!")</h1>
+<!-- Profile README for github.com/sg6724 -->
+<h1 align="center">Hey there 👋 —I’m Samriddhi Gupta</h1>
 
-<p align="center">🚀 AI Enthusiast | 💻 Web Developer | 🧠 Lifelong Learner</p>
-
----
-
-### 🌟 Welcome to my GitHub!
-
-I'm a tech explorer with a passion for building smart systems and solving real-world problems using **AI, machine learning, and clean frontend design**. I love mixing creativity with logic — whether it's training a model or designing a seamless user experience.
-
----
-
-### 🧠 About Me
-
-- 🔬 **Focus Areas**: Artificial Intelligence, Machine Learning, Full-Stack Web Dev  
-- 📌 **Current Stack**:
-  - 🤖 ML/AI: `TensorFlow`, `Scikit-learn`, `Pandas`, `NumPy`, `Keras`, `Matplotlib`, `Seaborn`  
-  - 🧪 Backend: `Python`, `FastAPI`, `Flask`, `Django`, `SQLAlchemy`  
-  - 🌐 Frontend: `React.js`, `Tailwind CSS`, `JavaScript`, `HTML`, `CSS`  
-  - 🛢️ Databases: `MySQL`, `SQLite`  
-  - ☕ Programming: `Python`, `Java`, `JavaScript`  
-- 🤝 Open to Collaborate: Hackathons, open-source projects, AI-powered ideas  
-- 🛠 Currently Learning: `LangChain`, `LLMs`, `Generative AI`, `Deep Learning`  
-- 🎯 My Mission: Build AI solutions that empower people, simplify decisions, and make tech more human.
-
----
-
-### 💼 Tech Stack
-
-Here are the technologies and tools I work with regularly:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project Name           | Description                                                                 | Tech Stack                                               |
-|------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------|
-| **CureHer**            | AI-powered breast cancer assessment tool with diagnosis + recommendations   | FastAPI, React.js, Scikit-learn, MySQL, ML algorithms    |
-| **MediCheck Extension**| Chrome extension validating medical content using trusted APIs              | LangChain, React.js, Flask, Tailwind CSS                 |
-| **Spam Classifier**    | Email classifier using NLP and ML models for spam detection                 | Python, Scikit-learn, TF-IDF, Pickle                     |
-| **YourHR**             | AI-Powered job recruiter                                                    | FastAPI, ML, Python, SQLite, Mailgun API, DuckDuckGo     |
-
----
-
-### 📈 GitHub Stats
-
+<!-- Animated “Hello world” line -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sg6724&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sg6724&theme=github-dark-blue" width="48%" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=System.out.println(%22Hello+world+,+I+am+Samriddhi+Gupta%22);"
+    alt="Typing animation: System.out.println(&quot;Hello world , I am Samriddhi gupta&quot;);"
+  />
 </p>
 
 ---
 
-### 🧩 Let's Connect
+### 👩‍💻 About Me
+- 🎓 Computer-science student with a passion for AI-first products  
+- 🚀 Current side quests: **MindMate** (mental-health chatbot), **ForesightFlow X Retail AI**, and an ATS powered by LLMs  
+- 🛠️ Tech stack favorites: **Python, FastAPI, React + Tailwind, LangChain, FAISS, Gemini 1.5 Pro**
 
+### 📊 My GitHub Stats
 <p align="center">
-  <a href="https://www.linkedin.com/in/samriddhi-gupta-61a96b282/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:samriddhigupta426@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://samriddhigupta426.wixsite.com/myfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-24292E?style=for-the-badge&logoColor=white"/>
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sg6724&show_icons=true&theme=transparent"
+    alt="Samriddhi's GitHub stats"
+  />
 </p>
 
----
+### 🌐 Connect & Collaborate
+- 📝 Portfolio & projects: **[github.com/sg6724](https://github.com/sg6724)**
+- 📫 Reach me: samriddhi-gupta@example.com (replace with your real email)  
+- 🤝 Always excited to pair-program, hackathon, or brainstorm big ideas!
 
-> ⚡️ *Always Exploring. Always Learning. Always Building.*
+---
