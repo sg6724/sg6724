@@ -68,6 +68,10 @@ Here are the technologies and tools I work with regularly:
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sg6724&theme=github-compact" />
+</p>
+
 
 ### 🧩 Let's Connect
 
