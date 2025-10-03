@@ -1,31 +1,32 @@
+
 <!-- Synthwave Terminal Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2e026d,100:ff00ff&height=100&section=header&text=Samriddhi%20Gupta%20%24%20Terminal&fontColor=39FF14&fontSize=30&fontAlign=50&fontAlignY=70&font=Fira%20Code" />
 </p>
 
-```powershell
+```
 PS C:\Users\Samriddhi> whoami
 🌌 AI Explorer | 🖥️ Full-Stack Developer | 🎶 Synthwave Coder
-````
+```
 
 ---
 
 ### 🧠 About Me
 
-* 🔬 **Focus Areas**: AI, ML, Full-Stack Web Development
+* 🔬 **Focus Areas**: AI, ML, Full-Stack Web Development  
 * 📌 **Tech Arsenal**:
 
-  * 🤖 **ML/AI**: `TensorFlow`, `Scikit-learn`, `Keras`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
-  * 🧪 **Backend**: `Python`, `FastAPI`, `Flask`, `Django`, `SQLAlchemy`
-  * 🌐 **Frontend**: `React.js`, `Tailwind CSS`, `JavaScript`, `HTML`, `CSS`
-  * 🛢️ **Databases**: `MySQL`, `SQLite`
-  * ☕ **Languages**: `Python`, `Java`, `JavaScript`
-* 🛠 **Currently Exploring**: `LangChain`, `Generative AI`, `LLMs`, `Deep Learning`
+  * 🤖 **ML/AI**: `TensorFlow`, `Scikit-learn`, `Keras`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
+  * 🧪 **Backend**: `Python`, `FastAPI`, `Flask`, `Django`, `SQLAlchemy`  
+  * 🌐 **Frontend**: `React.js`, `Tailwind CSS`, `JavaScript`, `HTML`, `CSS`  
+  * 🛢️ **Databases**: `MySQL`, `SQLite`  
+  * ☕ **Languages**: `Python`, `Java`, `JavaScript`  
+* 🛠 **Currently Exploring**: `LangChain`, `Generative AI`, `LLMs`, `Deep Learning`  
 * 🎯 **Mission**: Build futuristic AI solutions that feel *human + electric*.
 
 ---
 
-```powershell
+```
 PS C:\Users\Samriddhi> dir tech_stack
 ```
 
@@ -47,20 +48,22 @@ PS C:\Users\Samriddhi> dir tech_stack
 
 ---
 
-```powershell
+```
 PS C:\Users\Samriddhi> cat featured_projects.txt
 ```
 
-| 🚧 Project    | Description                                                                                                                  | 🛠 Tech Stack                                         |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| **CureHer**   | 💜 A precision AI system tackling healthcare’s neon battlefield: early breast cancer detection & futuristic recommendations. | FastAPI, React.js, Scikit-learn, MySQL, ML algorithms |
-| **MediCheck** | 💾 Shields the web against misinformation — a cyber guardian validating medical content in real time using AI.               | LangChain, React.js, Flask, Tailwind CSS              |
-| **GreenLens** | 🌱 Neon-powered agriculture AI — diagnoses crop diseases, highlights *why* with Grad-CAM, cross-checks weather & talks back. | EfficientNet-B0, FastAPI, React.js, Gemini LLM, gTTS  |
-| **YourHR**    | 🤖 Synth-bot recruiter scanning resumes like a data stream & sourcing opportunities with real-time automation.               | FastAPI, ML, Python, SQLite, Mailgun API, DuckDuckGo  |
+
+| 🚧 Project    | Description                                      | 🛠 Tech Stack                                         |
+| ------------- | ------------------------------------------------ | ----------------------------------------------------- |
+| **CureHer**   |  ML-driven early breast cancer detection & recommendation system. | FastAPI, React.js, Scikit-learn, MySQL, ML algorithms |
+| **MediCheck** |  Real-time medical content verification to fight misinformation online. | LangChain, React.js, Flask, Tailwind CSS              |
+| **GreenLens** |  AI crop disease detector with Grad-CAM insights & remedy suggestions. | EfficientNet-B0, FastAPI, React.js, Gemini LLM, gTTS  |
+| **YourHR**    |  Automated AI recruiter for resume scanning & job sourcing. | FastAPI, ML, Python, SQLite, Mailgun API, DuckDuckGo  |
+
 
 ---
 
-```powershell
+```
 PS C:\Users\Samriddhi> get-github_stats
 ```
 
@@ -73,12 +76,12 @@ PS C:\Users\Samriddhi> get-github_stats
   <img src="https://github-profile-trophy.vercel.app/?username=sg6724&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
+
 ---
-
-```powershell
-PS C:\Users\Samriddhi> ./connect_me.exe
 ```
+PS C:\Users\Samriddhi> ./connect_me.exe
 
+```
 <p align="center">
   <a href="https://www.linkedin.com/in/samriddhi-gupta-61a96b282/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-ff00ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
@@ -98,4 +101,3 @@ PS C:\Users\Samriddhi> ./connect_me.exe
 </p>
 
 > ⚡ Terminal closed: *Always Exploring. Always Learning. Always Synthwaving.*
-
