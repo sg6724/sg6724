@@ -95,23 +95,6 @@ root@github ~ $ cat featured_projects.txt
 ---
 
 ```bash
-root@github ~ $ ./get_github_stats.sh
-```
-```
-[INFO] Fetching stats for user: sg6724 ...
-[OK]   Done.
-```
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sg6724&show_icons=true&theme=synthwave" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sg6724&theme=synthwave" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sg6724&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
-</p>
----
-
-```bash
 root@github ~ $ ./connect_me.exe
 ```
 
@@ -122,7 +105,7 @@ root@github ~ $ ./connect_me.exe
   <a href="mailto:samriddhigupta426@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
-  <a href="https://samriddhiportfolio-pi.vercel.app/" target="_blank">
+  <a href="https://samriddhigupta.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-00eaff?style=for-the-badge&logo=windowsterminal&logoColor=black"/>
   </a>
 </p>
