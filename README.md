@@ -26,12 +26,17 @@
 </div>
 
 ---
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&multiline=false&width=650&lines=Backend+%40+LocalStreet+%E2%9A%A1;GDG+Campus+Tech+Lead+%E2%9C%A8;Building+agentic+systems+%F0%9F%A4%96;RAG+pipelines+%2B+AI+Agents+%F0%9F%A7%A0;Open+source+and+Hackathons%F0%9F%8C%8A;Always+vibing+with+the+code+%3A)" />
+</p>
 
+---
 
 ```bash
 root@github ~ $ cat about_me.txt
 ```
-🌌 AI Explorer | 🖥️ Full-Stack Developer 
+🌌 AI Engineer | 🖥️ Full-Stack Developer 
 
 ---
 
